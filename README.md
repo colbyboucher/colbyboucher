@@ -1,10 +1,10 @@
-## Hi there 👋
+# U+2620 Hey, **INTERNET STALKER**! U+2620
+## Thanks for checking out my GitHub profile,
 
+I'm a student at Palm Beach State College, majoring in **computer science**. I have my associate degree in **computer programming** with additional certificates in **IoT**, **AI**, and **programming**.
+
+I'm a skateboarder, gamer, and guitarist, who likes to find ways to break systems and cause **mischeif**. U+1F608
 <!--
-**colbyboucher/colbyboucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
