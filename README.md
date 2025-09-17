@@ -1,6 +1,6 @@
 # :skull_and_crossbones: Hey, Internet Stalker! :skull_and_crossbones:
 ## Thanks for checking out my GitHub profile :smiling_imp:,
-
+🧐
 I'm a student at Palm Beach State College, majoring in **computer science**. I have my associate degree in **computer programming** with additional certificates in **IoT**, **AI**, and **programming**.
 
 I'm a skateboarder, gamer, and guitarist, who likes to find ways to break systems and cause **mischeif** :smiling_imp:.
