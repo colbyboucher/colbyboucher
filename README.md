@@ -5,7 +5,7 @@ I'm a student at Palm Beach State College, majoring in **computer science**. I h
 
 I'm a skateboarder, gamer, and guitarist, who likes to find ways to break systems and cause *mischeif*. :smiling_imp:
 
-I'm always open to networking with other programmers, students, and professionals so connect/follow with me on **LinkedIn**:
+I'm always open to networking with other programmers, students, and professionals so connect with, or follow me on **LinkedIn**:
 [Click me if you're cool!](https://www.linkedin.com/in/colbyboucher/)
 
 I prefer to communicate through LinkedIn, so please don't email me unless it's important. :skateboard:
