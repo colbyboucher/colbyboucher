@@ -1,5 +1,5 @@
 # :skull_and_crossbones: Hey, Internet Stalker! :skull_and_crossbones:
-## Thanks for checking out my GitHub profile, :black_heart:
+## Thanks for checking out my GitHub profile. :black_heart:
 
 I'm a student at Palm Beach State College, majoring in **computer science**. I have an **Associate of Science** degree in **computer programming** with additional certificates in **IoT**, **AI**, and **programming**. :coffin:
 
